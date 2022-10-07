@@ -1,0 +1,15 @@
+[submodule "fmba-backend-user"]
+	path = fmba-backend-user
+	url = https://github.com/upneto/fmba-backend-user.git
+[submodule "fmba-backend-veiculo"]
+	path = fmba-backend-veiculo
+	url = https://github.com/upneto/fmba-backend-veiculo.git
+[submodule "fmba-backend-ordem-servico"]
+	path = fmba-backend-ordem-servico
+	url = https://github.com/upneto/fmba-backend-ordem-servico.git
+[submodule "fmba-backend-cliente"]
+	path = fmba-backend-cliente
+	url = https://github.com/upneto/fmba-backend-cliente.git
+[submodule "fmba-mobile"]
+	path = fmba-mobile
+	url = https://github.com/upneto/fmba-mobile.git
