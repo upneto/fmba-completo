@@ -13,3 +13,6 @@
 [submodule "fmba-mobile"]
 	path = fmba-mobile
 	url = https://github.com/upneto/fmba-mobile.git
+[submodule "fmba-backend-gateway"]
+	path = fmba-backend-gateway
+	url = https://github.com/upneto/fmba-backend-gateway.git
