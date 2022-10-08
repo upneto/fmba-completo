@@ -4,5 +4,7 @@ Projeto comtodos os modulos do projeto DMBA. Para baixar os projetos digite o co
 
     git submodule update --init --recursive
     
+ Para atualizar os artefatos
+    
     git submodule foreach git pull 
 
