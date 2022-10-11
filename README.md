@@ -10,7 +10,7 @@ Projeto comtodos os modulos do projeto DMBA. Para baixar os projetos digite o co
     
 Para atualizar os artefatos
 
-   git submodule foreach git pull     
+    git submodule foreach git pull     
 
 ### Modulos
 
