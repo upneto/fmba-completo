@@ -4,11 +4,11 @@ Projeto completo com todos os projetos (micro serviços)
 
 ### Pré requisitos e configurações
 
-Projeto comtodos os modulos do projeto DMBA. Para baixar os projetos digite o comando abaixo ap
+Projeto com todos os modulos do projeto FMBA. Para baixar os projetos digite o comando abaixo ap
 
     git submodule update --init --recursive
     
-Para atualizar os artefatos
+Para atualizar os artefatos dos modulos
 
     git submodule foreach git pull     
 
