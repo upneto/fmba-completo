@@ -4,11 +4,11 @@ Projeto completo com todos os projetos (micro serviços)
 
 ### Pré requisitos e configurações
 
-Projeto comtodos os modulos do projeto DMBA. Para baixar os projetos digite o comando abaixo ap
+Projeto com todos os modulos do projeto FMBA. Para baixar os projetos digite o comando abaixo ap
 
     git submodule update --init --recursive
     
-Para atualizar os artefatos
+Para atualizar os artefatos dos modulos
 
     git submodule foreach git pull     
 
@@ -20,3 +20,4 @@ Para atualizar os artefatos
 * [https://github.com/upneto/fmba-backend-ordem-servico](https://github.com/upneto/fmba-backend-ordem-servico)
 * [https://github.com/upneto/fmba-backend-gateway](https://github.com/upneto/fmba-backend-gateway)
 * [https://github.com/upneto/fmba-mobile](https://github.com/upneto/fmba-mobile)
+* [https://github.com/upneto/fmba-frontend](https://github.com/upneto/fmba-frontend)
