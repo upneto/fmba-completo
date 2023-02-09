@@ -19,3 +19,6 @@
 [submodule "fmba-frontend"]
 	path = fmba-frontend
 	url = https://github.com/upneto/fmba-frontend.git
+[submodule "fmba-frontend-web"]
+	path = fmba-frontend-web
+	url = https://github.com/upneto/fmba-frontend-web.git
