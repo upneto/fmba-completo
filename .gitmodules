@@ -1,24 +1,30 @@
+[submodule "fmba-backend-cliente"]
+	path = fmba-backend-cliente
+	url = https://github.com/upneto/fmba-backend-cliente.git
+[submodule "fmba-backend-fila-ord-servico"]
+	path = fmba-backend-fila-ord-servico
+	url = https://github.com/upneto/fmba-backend-fila-ord-servico.git
+[submodule "fmba-backend-gateway"]
+	path = fmba-backend-gateway
+	url = https://github.com/upneto/fmba-backend-gateway.git
+[submodule "fmba-backend-ordem-servico"]
+	path = fmba-backend-ordem-servico
+	url = https://github.com/upneto/fmba-backend-ordem-servico.git
+[submodule "fmba-backend-service-discover"]
+	path = fmba-backend-service-discover
+	url = https://github.com/upneto/fmba-backend-service-discover.git
 [submodule "fmba-backend-user"]
 	path = fmba-backend-user
 	url = https://github.com/upneto/fmba-backend-user.git
 [submodule "fmba-backend-veiculo"]
 	path = fmba-backend-veiculo
 	url = https://github.com/upneto/fmba-backend-veiculo.git
-[submodule "fmba-backend-ordem-servico"]
-	path = fmba-backend-ordem-servico
-	url = https://github.com/upneto/fmba-backend-ordem-servico.git
-[submodule "fmba-backend-cliente"]
-	path = fmba-backend-cliente
-	url = https://github.com/upneto/fmba-backend-cliente.git
-[submodule "fmba-mobile"]
-	path = fmba-mobile
-	url = https://github.com/upneto/fmba-mobile.git
-[submodule "fmba-backend-gateway"]
-	path = fmba-backend-gateway
-	url = https://github.com/upneto/fmba-backend-gateway.git
 [submodule "fmba-frontend"]
 	path = fmba-frontend
 	url = https://github.com/upneto/fmba-frontend.git
 [submodule "fmba-frontend-web"]
 	path = fmba-frontend-web
 	url = https://github.com/upneto/fmba-frontend-web.git
+[submodule "fmba-mobile"]
+	path = fmba-mobile
+	url = https://github.com/upneto/fmba-mobile.git
