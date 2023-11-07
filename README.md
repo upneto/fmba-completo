@@ -1,5 +1,5 @@
-# FMBA  
-Projeto completo com todos os projetos (micro serviços) 
+# FMBA - FIAP MBA 
+Projeto completo com todos os modulos do app FMBA
 
 
 ### Pré requisitos e configurações
