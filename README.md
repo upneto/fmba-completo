@@ -14,10 +14,8 @@ Para atualizar os artefatos dos modulos
 
 ### Modulos
 
-* [https://github.com/upneto/fmba-backend-user](https://github.com/upneto/fmba-backend-user)
-* [https://github.com/upneto/fmba-backend-cliente](https://github.com/upneto/fmba-backend-cliente)
-* [https://github.com/upneto/fmba-backend-veiculo](https://github.com/upneto/fmba-backend-veiculo)
-* [https://github.com/upneto/fmba-backend-ordem-servico](https://github.com/upneto/fmba-backend-ordem-servico)
-* [https://github.com/upneto/fmba-backend-gateway](https://github.com/upneto/fmba-backend-gateway)
-* [https://github.com/upneto/fmba-mobile](https://github.com/upneto/fmba-mobile)
-* [https://github.com/upneto/fmba-frontend](https://github.com/upneto/fmba-frontend)
+* [https://github.com/upneto/prestoshat-backend-auth.git](https://github.com/upneto/prestoshat-backend-auth.git)
+* [https://github.com/upneto/prestoshat-backend-data.git](https://github.com/upneto/prestoshat-backend-data.git)
+* [https://github.com/upneto/prestoshat-backend-games.git](https://github.com/upneto/prestoshat-backend-games.git)
+* [https://github.com/upneto/prestoshat-backend-gateway.git](https://github.com/upneto/prestoshat-backend-gateway.git)
+* [https://github.com/upneto/prestoshat-frontend-react.git](https://github.com/upneto/prestoshat-frontend-react.git)
